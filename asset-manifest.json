@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cloud-billing-comparator/static/css/main.afd7a469.chunk.css",
+    "main.js": "/cloud-billing-comparator/static/js/main.18c49b70.chunk.js",
+    "main.js.map": "/cloud-billing-comparator/static/js/main.18c49b70.chunk.js.map",
+    "runtime-main.js": "/cloud-billing-comparator/static/js/runtime-main.b6e00b9f.js",
+    "runtime-main.js.map": "/cloud-billing-comparator/static/js/runtime-main.b6e00b9f.js.map",
+    "static/css/2.379a8125.chunk.css": "/cloud-billing-comparator/static/css/2.379a8125.chunk.css",
+    "static/js/2.e05f0d73.chunk.js": "/cloud-billing-comparator/static/js/2.e05f0d73.chunk.js",
+    "static/js/2.e05f0d73.chunk.js.map": "/cloud-billing-comparator/static/js/2.e05f0d73.chunk.js.map",
+    "static/js/3.92c7837f.chunk.js": "/cloud-billing-comparator/static/js/3.92c7837f.chunk.js",
+    "static/js/3.92c7837f.chunk.js.map": "/cloud-billing-comparator/static/js/3.92c7837f.chunk.js.map",
+    "index.html": "/cloud-billing-comparator/index.html",
+    "static/css/2.379a8125.chunk.css.map": "/cloud-billing-comparator/static/css/2.379a8125.chunk.css.map",
+    "static/css/main.afd7a469.chunk.css.map": "/cloud-billing-comparator/static/css/main.afd7a469.chunk.css.map",
+    "static/js/2.e05f0d73.chunk.js.LICENSE.txt": "/cloud-billing-comparator/static/js/2.e05f0d73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6e00b9f.js",
+    "static/css/2.379a8125.chunk.css",
+    "static/js/2.e05f0d73.chunk.js",
+    "static/css/main.afd7a469.chunk.css",
+    "static/js/main.18c49b70.chunk.js"
+  ]
+}
